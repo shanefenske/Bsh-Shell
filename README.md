@@ -1,4 +1,4 @@
-Note: requires additional fiies written by professor to run.
+Note: requires additional files written by professor to run.
 
 Bsh is a simple shell, a baby brother of the Bourne-again shell
 bash, and offers a limited subset of bash's functionality (plus some extras):
