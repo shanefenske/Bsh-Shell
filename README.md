@@ -54,9 +54,4 @@ thus you should use (i.e., link with)
 * Hwk5/parse.o to tokenize each command line and parse it into a syntactically
   correct tree of CMD structures (interface in Hwk5/parse.h).
 
-DO NOT MODIFY Hwk5/mainBsh.c or Hwk5/getLine.c or Hwk5/parse.h---the source
-code for process() should be in a different file (or files).  To enforce this
-the test script may delete local files with the names mainBsh.*, getLine.*, and
-parse.* before trying to make your program.  Moreover, Hwk5/mainBsh.c and
-Hwk5/parse.o may change without notice, but never in a manner that would change
-the data structure being passed to process().
+
